@@ -1,0 +1,19 @@
+MEJORAS DEL SEO:
+
+Agregué en todas las páginas:
+
+*Modifiqué los titulos en cada una de las páginas.
+
+*Agregué keywords generales y algunas más particulares de cada página.
+
+*Agregué una descripción en cada página.
+
+
+MEJORAS CON EL SASS:
+
+*Agregué el map get a modo de demostrar que lo entendí en la página del index.
+
+*Agregué en la página de contacto, un extend con los ejemplos de los botones enviar y limpiar formulario.
+
+*Agregue el mixin también en la página del contacto, pero en la caja de comentario para demostrar que lo entendí.
+
